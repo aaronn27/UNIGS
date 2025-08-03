@@ -1,0 +1,113 @@
+[33me3fafa1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mUpdated_Account_Info[m[33m)[m Merge branch 'master' into Updated_Account_Info
+[33m6e23275[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Merged PR 52: The skelton Loader is done
+[33m7be159d[m final commit
+[33m7628481[m Merge branch 'master' into Updated_Account_Info
+[33m554a766[m prpfilepage
+[33mbfb0894[m Merge branch 'master' into balance-box
+[33m7bb99bb[m Merge branch 'master' into balance-box
+[33mbdc5756[m Balance and Bannner  added
+[33m143b602[m Merged PR 51: Added Loading as well as User Requests Fixed in Cooperative society Details
+[33m022351b[m profile design
+[33m57d5ad8[m Added Loading as well as User Requests Fixed in Cooperative society Details
+[33mb0cfbab[m Merge branch 'master' into CooperativeDetails
+[33m2b01c19[m User Request is been implemented as well the interface
+[33mecb729c[m some changes in the profile page
+[33m2eb43e9[m Merged PR 50: completed the animation for the account information
+[33m2540185[m[33m ([m[1;31morigin/Account_Info_animation[m[33m, [m[1;32mAccount_Info_animation[m[33m)[m Merge branch 'master' into Account_Info_animation
+[33m1b20bca[m done with account info
+[33m2d6b20d[m Merge branch 'master' into CooperativeDetails
+[33mc68eebb[m Added updated images
+[33m2cefa0e[m acc infor
+[33m1359fa5[m Merged PR 49: fonts and theme
+[33m845de98[m dark and light theme applied with the fonts
+[33mca8a38b[m Merge branch 'master' into Account_Info_animation
+[33mbadb88f[m Account info animation and icon addition
+[33m6ef02d3[m Merge branch 'master' into fonts-and-theme
+[33m2b54a8c[m thmeme is almost completed and working on payments
+[33m8c0d19f[m INFO
+[33m9137af6[m Merged PR 48: Designed till icons functionality
+[33m44a4476[m Designed till icons functionality
+[33m112762c[m account info animation
+[33mb0902b6[m animation pending
+[33m465ef23[m Merge branch 'master' into fonts-and-theme
+[33m651a8ee[m dark theme updated
+[33m312b7d8[m Merge branch 'master' into CooperativeDetails
+[33m3bae03a[m initial changes
+[33m11c5745[m Merged PR 47: added account information page transaction history
+[33mf991316[m[33m ([m[1;31morigin/bank_nearby_location[m[33m, [m[1;32mbank_nearby_location[m[33m)[m account information add
+[33mf42c41d[m added container to the ministatements
+[33m3bfdf87[m Merge branch 'master' into bank_nearby_location
+[33m320a9e0[m added style to account info
+[33m67360f7[m Merged PR 46: Added a default image in the Cooperative Society Search Page
+[33m814e35b[m Added default image in the cooperative society search page
+[33m045882b[m accoubt info display 1
+[33m826a5b0[m Merge branch 'master' into bank_nearby_location
+[33m7b84f52[m account info
+[33m33b6865[m Merged PR 45: Payment history page done
+[33md2c4cdd[m Merge branch 'master' into payment-history
+[33m4964655[m initial
+[33m39af079[m Merge branch 'master' into payment-history
+[33m8a39fd7[m payments page
+[33md7d73b5[m s
+[33m5a35622[m profile image done
+[33mae8b497[m view profile image
+[33m4cfa85e[m Merge branch 'master' into Cooperative-Search-Default-image
+[33mc8f535b[m Inprogress
+[33m6fb285d[m Merged PR 44: Profile details editing option
+[33mace7762[m[33m ([m[1;31morigin/Photo_upload[m[33m, [m[1;32mPhoto_upload[m[33m)[m profile update complete
+[33mb6cddb5[m Merge branch 'master' into Photo_upload
+[33m5078848[m Profile details update
+[33m9056802[m Merged PR 43: proofile and accounts aligned
+[33m2ee25c3[m search function
+[33m7a3e7b3[m gghj
+[33m32a5e52[m Merge branch 'master' into accounts-page added aaron's search banks and otp verify corrected
+[33mc9eb5bb[m Merged PR 42: Implemented Cooperative Society Search Page
+[33mf059c32[m aligned the profile page and the accounts page
+[33m65c57b0[m Merge branch 'master' into accounts-page
+[33m9b0a012[m done for today
+[33m66d3f16[m Implemented Cooperative Society Search Page
+[33m245ab1c[m re designed the profile page and a skeleton loader
+[33m72271b6[m update profile details
+[33m5df7f82[m Merge branch 'master' into Photo_upload
+[33m2349e7b[m jj
+[33md9eeaaf[m updateprofile
+[33ma8f64b8[m Merged PR 41: Combined functions in Languages and OTPSend
+[33mfeb2a67[m Combined functions in Languages and OTPSend
+[33m0095be9[m dummy
+[33m390cd74[m corrected svg
+[33m9129aa7[m The starting pages changed and accounts page changed
+[33m33dc769[m Merge branch 'master' into Photo_upload
+[33m058c957[m cropping the image for profile image upload
+[33mdb3890a[m Merged PR 39: re design front pages
+[33med413b0[m Merged PR 38: Constant color centralization
+[33m1feb91d[m Merge branch 'master' into balanceandoutstanding
+[33m36da287[m profile image fix
+[33m93c92fd[m Constant color centralization
+[33m1d723f6[m still working on it
+[33mc683724[m Merge branch 'master' into balanceandoutstanding
+[33m6ca8a11[m hhh
+[33mecf2700[m correcting the otp boxes
+[33m2fd38c1[m Merged PR 37: added http service to all the fetch requests
+[33m914dbf3[m[33m ([m[1;31morigin/HTTPService[m[33m, [m[1;32mHTTPService[m[33m)[m commit after pull
+[33m0771346[m Merge branch 'master' into HTTPService
+[33m6d8959b[m removed comments
+[33m30d6e61[m Merged PR 36: Constant color centralisation till OTPSend.js
+[33mefe39ee[m Centralized constants in pages till OTPSend.js
+[33mdfbcab7[m Merge branch 'master' into balanceandoutstanding
+[33m5947928[m redesign the otp send
+[33mda71f1f[m Merge branch 'master' into HTTPService
+[33m29df52b[m image uploading
+[33meaab385[m Merge branch 'master' into Constants2
+[33maec6c76[m Constants page created and integrated
+[33m5a8adc9[m Merged PR 35: profile front page design
+[33m71e3b73[m tt
+[33m8c77b80[m kk
+[33m906934f[m gvgjvhj
+[33mda4c5e8[m Merge branch 'master' into profilefrontdesign
+[33mef29327[m profile design is kind of ready, just the balanace and outstanding are remaining
+[33m8b8ceaa[m Merged PR 33: updated fetch request to HTTP service and axios
+[33m0ae69e2[m language placholder value update
+[33m62d64d0[m small changes
+[33m5eebb58[m Merge branch 'master' into HTTPService
+[33m4a3448f[m Merge branch 'master' into profilefrontdesign
+[33m7485c5b[m first header done in profile
